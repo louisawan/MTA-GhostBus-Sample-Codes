@@ -1,7 +1,7 @@
+Hello! Thank you for your interest in my application.
+
 # MTA-GhostBus-Sample-Codes
 This is a repository for the MTA Ghostbus app we developed for a class project.
-
-Hello ! Thank you for your interest in my application. I have added this README to provide an explanation of my sample codes.
 
 # Project Description: MTA GhostBus
 The MTA GhostBus is a virtual reality application that allows users to track the location of the the B54 bus in a 2D or 3D view. For a video demo of this app, you can visit: https://vimeo.com/130789600
