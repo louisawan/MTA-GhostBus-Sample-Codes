@@ -21,7 +21,7 @@ RetrieveAllBus.cs is the script I use to call the MTA BusTime API in an XML file
 BusUpdater.cs is the script that retrieves and reads the XML data acquired the by RetrieveAllBus.cs script. I added several variables to retrieve specific details of the bus such as its longitude, latitude, the next stop, and vehicle ID. Once I retrieved the GPS location of multiple buses, I call the UpdateBusLocation.cs to plot it in Unity coordinates.
 
 ## SetGeolocation.cs
-I did not create this script. I included it for reference and comparison against the UpdateBusLocation.cs script that I created.
+I did not create this script. I included it for reference and comparison between the UpdateBusLocation.cs script that I created.
 
 Thank you for taking your time in reading this! Enjoy! :)
 
